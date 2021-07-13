@@ -276,4 +276,23 @@ footer h4{
     .btn .btn-2{
       margin-top: 40px;
     }
+    .grids{
+       display: flex;
+       flex-direction: column;
+       align-items: center;
+        
+    }
+    .last-grid{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+       
+    }
+    .mama{
+margin-bottom: 30px;
+       
+    }
+    
+    
+    
 }
